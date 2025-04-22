@@ -1,3 +1,5 @@
+Check my blog also to get all information about project https://medium.com/@gansawant07/fraud-detection-in-insurance-claims-b552734117bb
+
 # Fraud_Detection_Model_For_Insurance_Claims
 Install MySQL for windows from this link
 
